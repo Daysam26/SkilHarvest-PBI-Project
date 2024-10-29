@@ -12,7 +12,7 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
   - The tools used for data cleaning and preparation
  
 - Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-  - Data Visualization
+  - The tools used for table and matrix functions
 
 ### Data Cleaning and Preparation
 During data cleaning and preparation the following analysis were perform;
