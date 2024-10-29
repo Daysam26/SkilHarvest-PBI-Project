@@ -30,6 +30,12 @@ During data cleaning and preparation the following analysis were perform;
   - Total sum of Unit sold
   - Total Revenue etc.
 
+### Exploratory Data Analysis 
+The EDA involves in these Data Analysis are;
+1. What is the overall sales trend in the regions 
+2. Which period is at the peak of sales
+3. Which model is more demanded
+4. Revenue generated in 2014 and 2015
 
 
 
