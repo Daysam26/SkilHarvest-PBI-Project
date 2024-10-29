@@ -8,10 +8,9 @@ This is the Visual summarisation of Revenue and Unit of Sales generated from Gre
 The primary source of this data is GreenTeck Company's Sales Ledger.
 
 ### Tools Used
-- Ms Excel
-  - Data Preparation
+- Ms Excel [Download Here](http://www.microsoft.com)
+  - The tools used for data preparation
  
-- Power BI
-
+- Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
   - Data Visualization 
 
