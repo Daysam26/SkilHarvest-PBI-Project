@@ -20,7 +20,7 @@ During data cleaning and preparation the following analysis were perform;
 - Data Loading, inspection and cleaning
 - Creation of additional new column such as;
   - Regional Number by using conditional column
-  - Return on Investment (ROI) by using 
+  - Return on Investment (ROI) by using calculated column
 - Summarization of Data into Visuals; It includes;
   - Creating range of tables
   - Sum of revenue category in the region
