@@ -9,8 +9,16 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
 
 ### Tools Used
 - Ms Excel [Download Here](http://www.microsoft.com)
-  - The tools used for data preparation
+  - The tools used for data cleaning and preparation
  
 - Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-  - Data Visualization 
+  - Data Visualization
 
+### Data Cleaning and Preparation
+During data cleaning and preparation the following analysis were perform;
+- Data Loading
+- Creation of additional new column such as;
+  - Regional Number
+  - Return on Investment (ROI)
+- Summarization of Data into Visuals; It includes,
+Creating range of tables
