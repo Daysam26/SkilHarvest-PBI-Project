@@ -12,11 +12,12 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
   - The tools used for data cleaning and preparation
  
 - Power BI [Download Here](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+  - Used in data inspection and cleaning
   - The tools used for table and matrix functions
 
 ### Data Cleaning and Preparation
 During data cleaning and preparation the following analysis were perform;
-- Data Loading and inspection
+- Data Loading, inspection and cleaning
 - Creation of additional new column such as;
   - Regional Number
   - Return on Investment (ROI)
