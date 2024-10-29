@@ -37,6 +37,7 @@ The EDA involves in these Data Analysis are;
 2. Which period is at the peak of sales
 3. Which model is more demanded
 4. Revenue generated in 2014 and 2015
+5. Generate Fifteen(15) visuals using Table and Matrix
 
 
 
