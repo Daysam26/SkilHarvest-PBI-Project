@@ -19,8 +19,8 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
 During data cleaning and preparation the following analysis were perform;
 - Data Loading, inspection and cleaning
 - Creation of additional new column such as;
-  - Regional Number
-  - Return on Investment (ROI)
+  - Regional Number by using conditional column
+  - Return on Investment (ROI) by using 
 - Summarization of Data into Visuals; It includes;
   - Creating range of tables
   - Sum of revenue category in the region
@@ -38,7 +38,6 @@ The EDA involves in these Data Analysis are;
 3. Which model is more demanded
 4. Revenue generated in 2014 and 2015
 5. Generate Fifteen(15) visuals using Table and Matrix
-
 
 
 
