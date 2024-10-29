@@ -9,7 +9,6 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
 
 ### Tools Used
 - Ms Excel
-  
   - Data Preparation
  
 - Power BI
