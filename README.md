@@ -41,13 +41,6 @@ The EDA involves in these Data Analysis are;
 
 
 
-![Pg 1](https://github.com/user-attachments/assets/132be743-361e-4616-9a0f-0e04313fe623)
-
-![Pg 2](https://github.com/user-attachments/assets/7bebc8f3-d1cd-4ad1-ab16-368d140dd5d9)
-
-![Pg 3](https://github.com/user-attachments/assets/d6733748-a345-4ec5-8aea-a0c5a17c4374)
-
-![Pg 4](https://github.com/user-attachments/assets/d04bbdea-8606-4341-a201-c61f696b10f7)
 
 
 
