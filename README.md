@@ -47,6 +47,7 @@ The EDA involves in these Data Analysis are;
 
 
 
+![20241017_123601](https://github.com/user-attachments/assets/49bd417e-a5ea-432a-b091-04a502ee8253)
 
 
 
