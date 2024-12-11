@@ -1,6 +1,16 @@
 # GreenTeck Sales Ledger
 Documentation of Tables and Matrix functions while Learning Data Analysis with SkilHarvest Academy
 
+## Outline
+---
+## [Project Overview](#project-overview)
+## [Data Sources](#data-sources)
+## [Tools Used](#tools-used)
+## [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+## [Exploratory Data Analysis](#exploratory-data-analysis)
+## [Inference or Insight](#inference-or-insight)
+## [Recommendation](#recommendation)
+
 ### Project Overview
 This is the visual summarisation(tables and matrix functions) of Revenue and Unit of Sales generated from GreenTeck sale ledger over a period of 2 years in some particular region. It involve analysing the parameter with modern tools and making a progressive decisions where necessary and given some stories as regard some region’s performance.
 
