@@ -40,14 +40,6 @@ The EDA involves in these Data Analysis are;
 5. Generate Fifteen(15) visuals using Table and Matrix
 
 
-![Image 1](https://github.com/user-attachments/assets/c85d8f9d-07ac-4b57-856d-171df4b3aa33)
-
-![Screenshot (3)](https://github.com/user-attachments/assets/facadc6d-e1ee-4c41-ad4d-3690793c9648)
-
-
-
-
-![20241017_123601](https://github.com/user-attachments/assets/49bd417e-a5ea-432a-b091-04a502ee8253)
 
 
 
