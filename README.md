@@ -39,7 +39,10 @@ The EDA involves in these Data Analysis are;
 4. Revenue generated in 2014 and 2015
 5. Generate Fifteen(15) visuals using Table and Matrix
 
+### Inference/Insight 
 
+1.Image A
+- SUM OF REVENUE CATEGORY BY REGION; This visual shows the summarisation of 30,800 data into six (6) Regions and categorize their level of sales performance under HIGH, LOW and MEDIUM using Matrix function. As it is North East, South West and South South are three regions topping the table and North Central performing below expectation in term of revenue generated due to one thing of the other.  
 
 
 
