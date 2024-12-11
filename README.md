@@ -12,12 +12,15 @@ Documentation of Tables and Matrix functions while Learning Data Analysis with S
 ## [Recommendation](#recommendation)
 
 ### Project Overview
+---
 This is the visual summarisation(tables and matrix functions) of Revenue and Unit of Sales generated from GreenTeck sale ledger over a period of 2 years in some particular region. It involve analysing the parameter with modern tools and making a progressive decisions where necessary and given some stories as regard some region’s performance.
 
 ### Data Sources
+---
 The primary source of this data is GreenTeck Company's Sales Ledger.
 
 ### Tools Used
+---
 - Ms Excel [Download Here](http://www.microsoft.com)
   - The tools used for data cleaning and preparation
  
@@ -26,6 +29,7 @@ The primary source of this data is GreenTeck Company's Sales Ledger.
   - The tools used for table and matrix functions
 
 ### Data Cleaning and Preparation
+---
 During data cleaning and preparation the following analysis were perform;
 - Data Loading, inspection and cleaning
 - Creation of additional new column such as;
@@ -42,6 +46,7 @@ During data cleaning and preparation the following analysis were perform;
   - Total Revenue etc.
 
 ### Exploratory Data Analysis 
+---
 The EDA involves in these Data Analysis are;
 1. What is the overall sales trend in the regions 
 2. Which period is at the peak of sales
@@ -50,6 +55,7 @@ The EDA involves in these Data Analysis are;
 5. Generate Fifteen(15) visuals using Table and Matrix
 
 ### Inference/Insight 
+---
 
 1.Image A
 ![Image A](https://github.com/user-attachments/assets/ff7d183f-b081-45d0-b0bc-8c64f6224d52)
@@ -93,6 +99,7 @@ The EDA involves in these Data Analysis are;
 - SUM OF REVENUE IN 2015; The sum of Twenty four billion five hundred sixty seven million three hundred and eighty two thousand and eighty was generated in 2015which make it lower compare to 2014 revenue QnA function.
 
 ### Recommendation
+---
 During the analysis, the following actions are recommended;
 1. More focus need to be shifted to areas such as;
   - Regions such as; South East,North west, North central
